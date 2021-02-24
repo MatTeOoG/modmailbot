@@ -10,6 +10,8 @@ Inspired by Reddit's modmail system.
 
 Always take a backup of your `db/data.sqlite` file before updating the bot.
 
+Edited by me. All credits to [Dragory](https://github.com/Dragory)
+
 ## Getting started
 * **[🛠️ Setting up the bot](docs/setup.md)**
 * **[✨ Updating the bot](docs/updating.md)**
